@@ -1,9 +1,10 @@
 python-dotenv
+scikit-learn
 pandas 
 numpy
 pymongo
 certifi
 dill
 pyaml
-
+mlflow
 #-e .
