@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vijay/Desktop/network_security/mlruns/0/models/m-23871b1a668a476a83b638b89b03f8a3/artifacts
+creation_timestamp: 1756661972556
+experiment_id: '0'
+last_updated_timestamp: 1756661976241
+model_id: m-23871b1a668a476a83b638b89b03f8a3
+model_type: null
+name: model
+source_run_id: 9f8dccb4aba143eaab0683b3f5f1bb48
+status: 2
+status_message: null

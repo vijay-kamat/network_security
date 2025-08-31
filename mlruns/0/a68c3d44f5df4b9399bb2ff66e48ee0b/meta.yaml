@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vijay/Desktop/network_security/mlruns/0/a68c3d44f5df4b9399bb2ff66e48ee0b/artifacts
+end_time: 1756661972396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a68c3d44f5df4b9399bb2ff66e48ee0b
+run_name: vaunted-rook-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661967025
+status: 3
+tags: []
+user_id: vijay

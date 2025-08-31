@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vijay/Desktop/network_security/mlruns/0/3c2c9f3a1e1f451ab0ae0c73b5d38e28/artifacts
+end_time: 1756655033296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c2c9f3a1e1f451ab0ae0c73b5d38e28
+run_name: aged-pig-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756655029025
+status: 3
+tags: []
+user_id: vijay

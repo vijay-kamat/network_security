@@ -1,2 +1,4 @@
 nenv
 .env
+.mlruns
+.logs

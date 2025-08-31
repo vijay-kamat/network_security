@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vijay/Desktop/network_security/mlruns/0/9f8dccb4aba143eaab0683b3f5f1bb48/artifacts
+end_time: 1756661976256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f8dccb4aba143eaab0683b3f5f1bb48
+run_name: mercurial-hound-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661972438
+status: 3
+tags: []
+user_id: vijay
